@@ -11,7 +11,7 @@ This repository contains:
 
 ATTENTION: The externals will only work on Mac OS.
 
-In order copy the "qte" folder inside the "packages" folder in your Max folder. The Max packages folder is under "Documents/Max 8" (for Max 8) or "Documents/Max 9" (for Max 9).
+In order to install it, copy the "qte" folder inside the "packages" folder in your Max folder. The Max packages folder is under "Documents/Max 8" (for Max 8) or "Documents/Max 9" (for Max 9).
 
 If you installed qte "by hand" on a Mac, chances are that you'll have to remove the quarantine manually as well. The simplest way to do it is by going in the terminal and typing
 
