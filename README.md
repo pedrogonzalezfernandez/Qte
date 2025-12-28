@@ -1,4 +1,4 @@
-![Qte Logo](Qte_Logo.png)
+<img src="Qte_Logo.png" alt="Qte Logo" width="512" />
 
 # Qte (QuantumTimeEvolution)
 
