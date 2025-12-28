@@ -1,0 +1,16 @@
+Target dependency graph (8 targets)
+Target 'ALL_BUILD' in project 'QteExternals'
+➜ Explicit dependency on target 'qte.quantumho' in project 'QteExternals'
+➜ Explicit dependency on target 'qte.hermitmaker' in project 'QteExternals'
+➜ Explicit dependency on target 'qte.randherm' in project 'QteExternals'
+➜ Explicit dependency on target 'qte.hermcombiner' in project 'QteExternals'
+➜ Explicit dependency on target 'qte.eigencalc' in project 'QteExternals'
+➜ Explicit dependency on target 'qte.initstatecalc' in project 'QteExternals'
+➜ Explicit dependency on target 'qte.timedev' in project 'QteExternals'
+Target 'qte.timedev' in project 'QteExternals' (no dependencies)
+Target 'qte.initstatecalc' in project 'QteExternals' (no dependencies)
+Target 'qte.eigencalc' in project 'QteExternals' (no dependencies)
+Target 'qte.hermcombiner' in project 'QteExternals' (no dependencies)
+Target 'qte.randherm' in project 'QteExternals' (no dependencies)
+Target 'qte.hermitmaker' in project 'QteExternals' (no dependencies)
+Target 'qte.quantumho' in project 'QteExternals' (no dependencies)

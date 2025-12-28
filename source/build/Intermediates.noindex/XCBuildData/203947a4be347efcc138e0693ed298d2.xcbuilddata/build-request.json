@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "2c1d1c0b6a3350fa152ed3db5ebcacd5732aaa69d54f97f805c519cce0cbdc06"
+    }
+  ],
+  "containerPath" : "/Users/pedrogonzalez/Desktop/QteExternals/QteExternals.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "macosx",
+      "sdk" : "macosx26.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64",
+        "arm64e",
+        "x86_64",
+        "x86_64h"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/pedrogonzalez/Desktop/QteExternals/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/pedrogonzalez/Desktop/QteExternals/Build/Products",
+      "derivedDataPath" : "/Users/pedrogonzalez/Desktop/external",
+      "indexDataStoreFolderPath" : "/Users/pedrogonzalez/Desktop/external/QteExternals-dumbhckssmkvztestkijxjeicehn/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/pedrogonzalez/Desktop/external/QteExternals-dumbhckssmkvztestkijxjeicehn/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/pedrogonzalez/Desktop/QteExternals/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
