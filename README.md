@@ -1,6 +1,8 @@
+![Qte Logo](Qte_Logo.png)
+
 # Qte (QuantumTimeEvolution)
 
-Qte is a set of Max/MSP externals for building finite-dimensional quantum systems and computing their time evolution from a Hermitian Hamiltonian.
+Qte is a set of Max/MSP externals for building finite-dimensional quantum systems and computing their time development from a given Hamiltonian.
 
 This repository contains:
 - Source code for the externals (`source/`)
