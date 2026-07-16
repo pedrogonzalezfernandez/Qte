@@ -3,7 +3,7 @@
 |--------|------|---|
 |Pedro González Fernández| Escola Superior de Música de Catalunya | pgonzalez2@esmuc.cat|
 
-### Collaborators 
+### Contributors 
 |Name| Affiliation|  Contact |
 |--------|------|---|
 |Thomas Noll| Escola Superior de Música de Catalunya | tnoll@esmuc.cat|
