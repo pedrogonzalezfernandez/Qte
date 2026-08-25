@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Qte (QuantumTimeEvolution)"
+type: software
+version: 1.0.0
+
+authors:
+  - family-names: "González Fernández"
+    given-names: "Pedro"
+    affiliation: "Escola Superior de Música de Catalunya"
+
+  - family-names: "Noll"
+    given-names: "Thomas"
+    affiliation: "Escola Superior de Música de Catalunya"
+
+  - family-names: "Pastor"
+    given-names: "Fèlix"
+    affiliation: "Escola Superior de Música de Catalunya"
+
+  - family-names: "Resina"
+    given-names: "Eduard"
+    affiliation: "Escola Superior de Música de Catalunya"
+
+  - family-names: "beim Graben"
+    given-names: "Peter"
+    affiliation: "Brandenburg University of Technology Cottbus–Senftenberg"
+
+abstract: >
+  Qte is a set of Max/MSP externals for building finite-dimensional
+  quantum systems and computing their time development from a given
+  Hamiltonian.
+
+repository-code: "https://github.com/pedrogonzalezfernandez/Qte"
+license: "Apache-2.0"
